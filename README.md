@@ -91,5 +91,5 @@ Titanic-EDA/
 
  ## Author
 **Prathamesh Patil**  
-GitHub: https://github.com/pppatil3p
-LinkedIn: https://www.linkedin.com/in/pppatil3p/
+- GitHub: https://github.com/pppatil3p
+- LinkedIn: https://www.linkedin.com/in/pppatil3p/
